@@ -1,0 +1,12 @@
+{
+  "name": "react-dialpad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hugh McDonald",
+  "license": "MIT",
+  "dependencies": {
+    "react": "16.2.0",
+    "recompose": "0.26.0",
+    "styled-components": "2.3.0"
+  }
+}
